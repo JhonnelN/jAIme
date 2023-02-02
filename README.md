@@ -1,0 +1,2 @@
+# jAIme
+Django OpenAI implementation
